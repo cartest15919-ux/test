@@ -1,6 +1,4 @@
 # The "order" line is only used by old versions of the C library.
-order hosts,bind
-multi on
 161.117.70.136
 161.117.70.145
 161.117.70.68
